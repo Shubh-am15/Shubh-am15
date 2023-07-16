@@ -10,10 +10,11 @@ Also, I've developed several projects in the domain of Web Development, Machine 
 - 🔭 I’m currently working on "Online Code Editor Using React"
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Development
-<!--- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Latest Tech
 - 📫 How to reach me: guptashubham4623@gmail.com
-<!--- 😄 Pronouns: ...
+<!--- 
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
