@@ -6,6 +6,7 @@ Also, I've developed several projects in the domain of Web Development, Machine 
 <!--    -->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 🔭 I’m currently working on "Online Code Editor Using React"
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Development
@@ -15,6 +16,7 @@ Also, I've developed several projects in the domain of Web Development, Machine 
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
